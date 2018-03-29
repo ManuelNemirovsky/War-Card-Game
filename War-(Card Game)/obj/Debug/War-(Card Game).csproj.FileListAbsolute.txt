@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\עבודת גמר - פרויקט שחמט\War-(Card Game)\War-(Card Game)\bin\Debug\War-(Card Game).exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\War-(Card Game)\War-(Card Game)\bin\Debug\War-(Card Game).exe.config
